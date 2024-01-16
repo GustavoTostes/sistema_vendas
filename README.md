@@ -23,6 +23,9 @@ Após isso, o ambiente já estará configurado!
 # 📦 Tecnologias utilizadas
 **Backend:** 
 * [Typescript](https://www.typescriptlang.org/docs/)
+* [Express](https://expressjs.com/en/5x/api.html)
+* [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+* [MySQL](https://dev.mysql.com/doc/)
   
 **Frontend:**
 * [Vue.js](https://vuejs.org)
